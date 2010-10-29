@@ -1,0 +1,2 @@
+Pour utiliser le compresseur tu copies colles compress_css_file dans le dossier css et compress_js_file,
+puis tu va dans le dossier compress et tu lance l'éxécutable compress
